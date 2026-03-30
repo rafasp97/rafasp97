@@ -43,6 +43,9 @@ Tenho experiência sólida no desenvolvimento de:
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=symfony)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nest,php,symfony,dotnet" />
+</p>
 
 ---
 
