@@ -35,16 +35,17 @@ Tenho experiência sólida no desenvolvimento de:
 
 ## 🛠 Tecnologias
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=symfony)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nest,php,symfony,dotnet" />
+  <img src="https://skillicons.dev/icons?i=ts,nest,php,symfony,dotnet,vue,react,angular,js,html,css,scss,tailwind,vite,postgres,mysql,mongodb,redis,docker,git,rabbitmq&perline=8" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-0A0A0A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-0A0A0A?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-0A0A0A?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-0A0A0A?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hangfire-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
