@@ -72,11 +72,13 @@ Esse conhecimento me permite atuar com mais contexto e precisão em projetos que
 
 ## 📫 Contato
 
+Para mais informações ou contato direto, estão disponíveis as seguintes plataformas:
+
 <p>
   <a href="https://www.linkedin.com/in/rafael-souza-prata-1b72511a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rafaelsprata@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-D83B01?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-004080?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
